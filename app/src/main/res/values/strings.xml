@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daftar Hewan Mamalia</string>
+    <string name="nama">Nama Hewan</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
